@@ -10,7 +10,7 @@ terraform {
     bucket = "sri3321123"
     key    = "roboshop-manual"
     region = "us-east-1"
-    dynamodb_table = "81s-locking-dev"
+    dynamodb_table = "prami-lock"
   }
 }
 
